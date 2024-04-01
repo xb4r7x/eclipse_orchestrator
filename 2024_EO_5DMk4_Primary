@@ -1,0 +1,224 @@
+TAKEPIC,C1,-,00:01:18.0,Canon,1/320,8.0,800,0.000,RAW,,N,Uneclipsed Sun pre-eclipse, filter on
+TAKEPIC,C1,-,00:01:16.0,Canon,1/400,8.0,800,0.000,RAW,,N,Uneclipsed Sun pre-eclipse, filter on
+TAKEPIC,C1,-,00:01:14.0,Canon,1/500,8.0,800,0.000,RAW,,N,Uneclipsed Sun pre-eclipse, filter on
+TAKEPIC,C1,-,00:01:12.0,Canon,1/640,8.0,800,0.000,RAW,,N,Uneclipsed Sun pre-eclipse, filter on
+TAKEPIC,C1,-,00:01:10.0,Canon,1/800,8.0,800,0.000,RAW,,N,Uneclipsed Sun pre-eclipse, filter on
+TAKEPIC,C1,-,00:01:08.0,Canon,1/320,8.0,800,0.000,RAW,,N,Uneclipsed Sun pre-eclipse, filter on
+TAKEPIC,C1,-,00:01:06.0,Canon,1/400,8.0,800,0.000,RAW,,N,Uneclipsed Sun pre-eclipse, filter on
+TAKEPIC,C1,-,00:01:04.0,Canon,1/500,8.0,800,0.000,RAW,,N,Uneclipsed Sun pre-eclipse, filter on
+TAKEPIC,C1,-,00:01:02.0,Canon,1/640,8.0,800,0.000,RAW,,N,Uneclipsed Sun pre-eclipse, filter on
+TAKEPIC,C1,-,00:01:00.0,Canon,1/800,8.0,800,0.000,RAW,,N,Uneclipsed Sun pre-eclipse, filter on
+TAKEPIC,C4,+,00:01:00.0,Canon,1/320,8.0,800,0.000,RAW,,N,Uneclipsed Sun post-eclipse, filter on
+TAKEPIC,C4,+,00:01:02.0,Canon,1/400,8.0,800,0.000,RAW,,N,Uneclipsed Sun post-eclipse, filter on
+TAKEPIC,C4,+,00:01:04.0,Canon,1/500,8.0,800,0.000,RAW,,N,Uneclipsed Sun post-eclipse, filter on
+TAKEPIC,C4,+,00:01:06.0,Canon,1/640,8.0,800,0.000,RAW,,N,Uneclipsed Sun post-eclipse, filter on
+TAKEPIC,C4,+,00:01:08.0,Canon,1/800,8.0,800,0.000,RAW,,N,Uneclipsed Sun post-eclipse, filter on
+TAKEPIC,C4,+,00:01:10.0,Canon,1/320,8.0,800,0.000,RAW,,N,Uneclipsed Sun post-eclipse, filter on
+TAKEPIC,C4,+,00:01:12.0,Canon,1/400,8.0,800,0.000,RAW,,N,Uneclipsed Sun post-eclipse, filter on
+TAKEPIC,C4,+,00:01:14.0,Canon,1/500,8.0,800,0.000,RAW,,N,Uneclipsed Sun post-eclipse, filter on
+TAKEPIC,C4,+,00:01:16.0,Canon,1/640,8.0,800,0.000,RAW,,N,Uneclipsed Sun post-eclipse, filter on
+TAKEPIC,C4,+,00:01:18.0,Canon,1/800,8.0,800,0.000,RAW,,N,Uneclipsed Sun post-eclipse, filter on
+TAKEPIC,C1,-,00:00:02.0,Canon,1/320,8.0,800,0.000,RAW,,N,First contact, filter on
+TAKEPIC,C1,+,00:00:00.0,Canon,1/400,8.0,800,0.000,RAW,,N,First contact, filter on
+TAKEPIC,C1,+,00:00:02.0,Canon,1/500,8.0,800,0.000,RAW,,N,First contact, filter on
+TAKEPIC,C1,+,00:00:04.0,Canon,1/640,8.0,800,0.000,RAW,,N,First contact, filter on
+TAKEPIC,C1,+,00:00:06.0,Canon,1/800,8.0,800,0.000,RAW,,N,First contact, filter on
+TAKEPIC,C1,+,00:00:08.0,Canon,1/320,8.0,800,0.000,RAW,,N,First contact, filter on
+TAKEPIC,C1,+,00:00:10.0,Canon,1/400,8.0,800,0.000,RAW,,N,First contact, filter on
+TAKEPIC,C1,+,00:00:12.0,Canon,1/500,8.0,800,0.000,RAW,,N,First contact, filter on
+TAKEPIC,C1,+,00:00:14.0,Canon,1/640,8.0,800,0.000,RAW,,N,First contact, filter on
+TAKEPIC,C1,+,00:00:16.0,Canon,1/800,8.0,800,0.000,RAW,,N,First contact, filter on
+TAKEPIC,C4,-,00:00:16.0,Canon,1/320,8.0,800,0.000,RAW,,N,Fourth contact, filter on
+TAKEPIC,C4,-,00:00:14.0,Canon,1/400,8.0,800,0.000,RAW,,N,Fourth contact, filter on
+TAKEPIC,C4,-,00:00:12.0,Canon,1/500,8.0,800,0.000,RAW,,N,Fourth contact, filter on
+TAKEPIC,C4,-,00:00:10.0,Canon,1/640,8.0,800,0.000,RAW,,N,Fourth contact, filter on
+TAKEPIC,C4,-,00:00:08.0,Canon,1/800,8.0,800,0.000,RAW,,N,Fourth contact, filter on
+TAKEPIC,C4,-,00:00:06.0,Canon,1/320,8.0,800,0.000,RAW,,N,Fourth contact, filter on
+TAKEPIC,C4,-,00:00:04.0,Canon,1/400,8.0,800,0.000,RAW,,N,Fourth contact, filter on
+TAKEPIC,C4,-,00:00:02.0,Canon,1/500,8.0,800,0.000,RAW,,N,Fourth contact, filter on
+TAKEPIC,C4,+,00:00:00.0,Canon,1/640,8.0,800,0.000,RAW,,N,Fourth contact, filter on
+TAKEPIC,C4,+,00:00:02.0,Canon,1/800,8.0,800,0.000,RAW,,N,Fourth contact, filter on
+FOR,(VAR),5.000,5.000,99.900
+TAKEPIC,MAGPRE (VAR),-,00:00:09.0,Canon,1/320,8.0,800,0.000,RAW,,N,Partials C3-C4, filter on
+ENDFOR
+FOR,(VAR),5.000,5.000,99.900
+TAKEPIC,MAGPRE (VAR),-,00:00:07.0,Canon,1/400,8.0,800,0.000,RAW,,N,Partials C3-C4, filter on
+ENDFOR
+FOR,(VAR),5.000,5.000,99.900
+TAKEPIC,MAGPRE (VAR),-,00:00:05.0,Canon,1/500,8.0,800,0.000,RAW,,N,Partials C3-C4, filter on
+ENDFOR
+FOR,(VAR),5.000,5.000,99.900
+TAKEPIC,MAGPRE (VAR),-,00:00:03.0,Canon,1/640,8.0,800,0.000,RAW,,N,Partials C3-C4, filter on
+ENDFOR
+FOR,(VAR),5.000,5.000,99.900
+TAKEPIC,MAGPRE (VAR),-,00:00:01.0,Canon,1/800,8.0,800,0.000,RAW,,N,Partials C3-C4, filter on
+ENDFOR
+FOR,(VAR),5.000,5.000,99.900
+TAKEPIC,MAGPRE (VAR),-,00:00:11.0,Canon,1/320,8.0,800,0.000,RAW,,N,Partials C3-C4, filter on
+ENDFOR
+FOR,(VAR),5.000,5.000,99.900
+TAKEPIC,MAGPRE (VAR),-,00:00:13.0,Canon,1/400,8.0,800,0.000,RAW,,N,Partials C3-C4, filter on
+ENDFOR
+FOR,(VAR),5.000,5.000,99.900
+TAKEPIC,MAGPRE (VAR),-,00:00:15.0,Canon,1/500,8.0,800,0.000,RAW,,N,Partials C3-C4, filter on
+ENDFOR
+FOR,(VAR),5.000,5.000,99.900
+TAKEPIC,MAGPRE (VAR),-,00:00:17.0,Canon,1/640,8.0,800,0.000,RAW,,N,Partials C3-C4, filter on
+ENDFOR
+FOR,(VAR),5.000,5.000,99.900
+TAKEPIC,MAGPRE (VAR),-,00:00:19.0,Canon,1/800,8.0,800,0.000,RAW,,N,Partials C3-C4, filter on
+ENDFOR
+FOR,(VAR),5.000,5.000,99.900
+TAKEPIC,MAGPOST (VAR),-,00:00:09.0,Canon,1/320,8.0,800,0.000,RAW,,N,Partials C3-C4, filter on
+ENDFOR
+FOR,(VAR),5.000,5.000,99.900
+TAKEPIC,MAGPOST (VAR),-,00:00:07.0,Canon,1/400,8.0,800,0.000,RAW,,N,Partials C3-C4, filter on
+ENDFOR
+FOR,(VAR),5.000,5.000,99.900
+TAKEPIC,MAGPOST (VAR),-,00:00:05.0,Canon,1/500,8.0,800,0.000,RAW,,N,Partials C3-C4, filter on
+ENDFOR
+FOR,(VAR),5.000,5.000,99.900
+TAKEPIC,MAGPOST (VAR),-,00:00:03.0,Canon,1/640,8.0,800,0.000,RAW,,N,Partials C3-C4, filter on
+ENDFOR
+FOR,(VAR),5.000,5.000,99.900
+TAKEPIC,MAGPOST (VAR),-,00:00:01.0,Canon,1/800,8.0,800,0.000,RAW,,N,Partials C3-C4, filter on
+ENDFOR
+FOR,(VAR),5.000,5.000,99.900
+TAKEPIC,MAGPOST (VAR),-,00:00:11.0,Canon,1/320,8.0,800,0.000,RAW,,N,Partials C3-C4, filter on
+ENDFOR
+FOR,(VAR),5.000,5.000,99.900
+TAKEPIC,MAGPOST (VAR),-,00:00:13.0,Canon,1/400,8.0,800,0.000,RAW,,N,Partials C3-C4, filter on
+ENDFOR
+FOR,(VAR),5.000,5.000,99.900
+TAKEPIC,MAGPOST (VAR),-,00:00:15.0,Canon,1/500,8.0,800,0.000,RAW,,N,Partials C3-C4, filter on
+ENDFOR
+FOR,(VAR),5.000,5.000,99.900
+TAKEPIC,MAGPOST (VAR),-,00:00:17.0,Canon,1/640,8.0,800,0.000,RAW,,N,Partials C3-C4, filter on
+ENDFOR
+FOR,(VAR),5.000,5.000,99.900
+TAKEPIC,MAGPOST (VAR),-,00:00:19.0,Canon,1/800,8.0,800,0.000,RAW,,N,Partials C3-C4, filter on
+ENDFOR
+TAKEPIC,C2,-,00:00:09.0,Canon,1/800,16,100,0.000,RAW,,N,Baily's Beads C2
+TAKEPIC,C2,-,00:00:07.0,Canon,1/1000,16,100,0.000,RAW,,N,Baily's Beads C2
+TAKEPIC,C2,-,00:00:05.0,Canon,1/1000,16,100,0.000,RAW,,N,Baily's Beads C2
+TAKEPIC,C2,-,00:00:03.0,Canon,1/1000,16,100,0.000,RAW,,N,Baily's Beads C2
+TAKEPIC,C2,-,00:00:01.0,Canon,1/1250,16,100,0.000,RAW,,N,Baily's Beads C2
+TAKEPIC,C3,+,00:00:01.0,Canon,1/800,16,100,0.000,RAW,,N,Baily's Beads C3
+TAKEPIC,C3,+,00:00:03.0,Canon,1/1000,16,100,0.000,RAW,,N,Baily's Beads C3
+TAKEPIC,C3,+,00:00:05.0,Canon,1/1000,16,100,0.000,RAW,,N,Baily's Beads C3
+TAKEPIC,C3,+,00:00:07.0,Canon,1/1000,16,100,0.000,RAW,,N,Baily's Beads C3
+TAKEPIC,C3,+,00:00:09.0,Canon,1/1250,16,100,0.000,RAW,,N,Baily's Beads C3
+TAKEPIC,C2,-,00:00:19.0,Canon,1/10,16,100,0.000,RAW,,N,Diamond Ring C2
+TAKEPIC,C2,-,00:00:17.0,Canon,1/15,16,100,0.000,RAW,,N,Diamond Ring C2
+TAKEPIC,C2,-,00:00:15.0,Canon,1/15,16,100,0.000,RAW,,N,Diamond Ring C2
+TAKEPIC,C2,-,00:00:13.0,Canon,1/15,16,100,0.000,RAW,,N,Diamond Ring C2
+TAKEPIC,C2,-,00:00:11.0,Canon,1/25,16,100,0.000,RAW,,N,Diamond Ring C2
+TAKEPIC,C3,+,00:00:11.0,Canon,1/10,16,100,0.000,RAW,,N,Diamond Ring C3
+TAKEPIC,C3,+,00:00:13.0,Canon,1/15,16,100,0.000,RAW,,N,Diamond Ring C3
+TAKEPIC,C3,+,00:00:15.0,Canon,1/15,16,100,0.000,RAW,,N,Diamond Ring C3
+TAKEPIC,C3,+,00:00:17.0,Canon,1/15,16,100,0.000,RAW,,N,Diamond Ring C3
+TAKEPIC,C3,+,00:00:19.0,Canon,1/25,16,100,0.000,RAW,,N,Diamond Ring C3
+TAKEPIC,C2,+,00:00:01.0,Canon,1/320,16,100,0.000,RAW,,N,Chromosphere C2
+TAKEPIC,C2,+,00:00:03.0,Canon,1/500,16,100,0.000,RAW,,N,Chromosphere C2
+TAKEPIC,C2,+,00:00:05.0,Canon,1/500,16,100,0.000,RAW,,N,Chromosphere C2
+TAKEPIC,C2,+,00:00:07.0,Canon,1/500,16,100,0.000,RAW,,N,Chromosphere C2
+TAKEPIC,C2,+,00:00:09.0,Canon,1/800,16,100,0.000,RAW,,N,Chromosphere C2
+TAKEPIC,C3,-,00:00:09.0,Canon,1/320,16,100,0.000,RAW,,N,Chromosphere C3
+TAKEPIC,C3,-,00:00:07.0,Canon,1/500,16,100,0.000,RAW,,N,Chromosphere C3
+TAKEPIC,C3,-,00:00:05.0,Canon,1/500,16,100,0.000,RAW,,N,Chromosphere C3
+TAKEPIC,C3,-,00:00:03.0,Canon,1/500,16,100,0.000,RAW,,N,Chromosphere C3
+TAKEPIC,C3,-,00:00:01.0,Canon,1/800,16,100,0.000,RAW,,N,Chromosphere C3
+TAKEPIC,C2,+,00:00:11.0,Canon,1/160,16,100,0.000,RAW,,N,Prominences C2
+TAKEPIC,C2,+,00:00:13.0,Canon,1/200,16,100,0.000,RAW,,N,Prominences C2
+TAKEPIC,C2,+,00:00:15.0,Canon,1/250,16,100,0.000,RAW,,N,Prominences C2
+TAKEPIC,C2,+,00:00:17.0,Canon,1/250,16,100,0.000,RAW,,N,Prominences C2
+TAKEPIC,C2,+,00:00:19.0,Canon,1/250,16,100,0.000,RAW,,N,Prominences C2
+TAKEPIC,C2,+,00:00:21.0,Canon,1/250,16,100,0.000,RAW,,N,Prominences C2
+TAKEPIC,C2,+,00:00:23.0,Canon,1/320,16,100,0.000,RAW,,N,Prominences C2
+TAKEPIC,C2,+,00:00:25.0,Canon,1/400,16,100,0.000,RAW,,N,Prominences C2
+TAKEPIC,C3,-,00:00:25.0,Canon,1/160,16,100,0.000,RAW,,N,Prominences C3
+TAKEPIC,C3,-,00:00:23.0,Canon,1/200,16,100,0.000,RAW,,N,Prominences C3
+TAKEPIC,C3,-,00:00:21.0,Canon,1/250,16,100,0.000,RAW,,N,Prominences C3
+TAKEPIC,C3,-,00:00:19.0,Canon,1/250,16,100,0.000,RAW,,N,Prominences C3
+TAKEPIC,C3,-,00:00:17.0,Canon,1/250,16,100,0.000,RAW,,N,Prominences C3
+TAKEPIC,C3,-,00:00:15.0,Canon,1/250,16,100,0.000,RAW,,N,Prominences C3
+TAKEPIC,C3,-,00:00:13.0,Canon,1/320,16,100,0.000,RAW,,N,Prominences C3
+TAKEPIC,C3,-,00:00:11.0,Canon,1/400,16,100,0.000,RAW,,N,Prominences C3
+TAKEPIC,MAX,-,00:01:36.7,Canon,1/500,16,800,0.000,RAW,,N,Corona bracketing 0.1 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/125,16,800,0.000,RAW,,Y,Corona bracketing 0.2 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/30,16,800,0.000,RAW,,Y,Corona bracketing 0.5 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/8,16,800,0.000,RAW,,Y,Corona bracketing 1.0 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,0.5,16,800,0.000,RAW,,Y,Corona bracketing 4.0 Rs
+TAKEPIC,LAST,+,00:00:02.2,Canon,2,16,800,0.000,RAW,,Y,Corona bracketing 8.0 Rs
+TAKEPIC,LAST,+,00:00:02.6,Canon,1/500,16,800,0.000,RAW,,Y,Corona bracketing 0.1 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/125,16,800,0.000,RAW,,Y,Corona bracketing 0.2 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/30,16,800,0.000,RAW,,Y,Corona bracketing 0.5 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/8,16,800,0.000,RAW,,Y,Corona bracketing 1.0 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,0.5,16,800,0.000,RAW,,Y,Corona bracketing 4.0 Rs
+TAKEPIC,LAST,+,00:00:02.2,Canon,2,16,800,0.000,RAW,,Y,Corona bracketing 8.0 Rs
+TAKEPIC,LAST,+,00:00:02.6,Canon,1/500,16,800,0.000,RAW,,Y,Corona bracketing 0.1 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/125,16,800,0.000,RAW,,Y,Corona bracketing 0.2 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/30,16,800,0.000,RAW,,Y,Corona bracketing 0.5 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/8,16,800,0.000,RAW,,Y,Corona bracketing 1.0 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,0.5,16,800,0.000,RAW,,Y,Corona bracketing 4.0 Rs
+TAKEPIC,LAST,+,00:00:02.2,Canon,2,16,800,0.000,RAW,,Y,Corona bracketing 8.0 Rs
+TAKEPIC,LAST,+,00:00:02.6,Canon,1/500,16,800,0.000,RAW,,Y,Corona bracketing 0.1 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/125,16,800,0.000,RAW,,Y,Corona bracketing 0.2 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/30,16,800,0.000,RAW,,Y,Corona bracketing 0.5 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/8,16,800,0.000,RAW,,Y,Corona bracketing 1.0 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,0.5,16,800,0.000,RAW,,Y,Corona bracketing 4.0 Rs
+TAKEPIC,LAST,+,00:00:02.2,Canon,2,16,800,0.000,RAW,,Y,Corona bracketing 8.0 Rs
+TAKEPIC,LAST,+,00:00:02.6,Canon,1/500,16,800,0.000,RAW,,Y,Corona bracketing 0.1 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/125,16,800,0.000,RAW,,Y,Corona bracketing 0.2 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/30,16,800,0.000,RAW,,Y,Corona bracketing 0.5 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/8,16,800,0.000,RAW,,Y,Corona bracketing 1.0 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,0.5,16,800,0.000,RAW,,Y,Corona bracketing 4.0 Rs
+TAKEPIC,LAST,+,00:00:02.2,Canon,2,16,800,0.000,RAW,,Y,Corona bracketing 8.0 Rs
+TAKEPIC,LAST,+,00:00:02.6,Canon,1/500,16,800,0.000,RAW,,Y,Corona bracketing 0.1 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/125,16,800,0.000,RAW,,Y,Corona bracketing 0.2 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/30,16,800,0.000,RAW,,Y,Corona bracketing 0.5 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/8,16,800,0.000,RAW,,Y,Corona bracketing 1.0 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,0.5,16,800,0.000,RAW,,Y,Corona bracketing 4.0 Rs
+TAKEPIC,LAST,+,00:00:02.2,Canon,2,16,800,0.000,RAW,,Y,Corona bracketing 8.0 Rs
+TAKEPIC,LAST,+,00:00:42.2,Canon,1/500,16,800,0.000,RAW,,Y,Corona bracketing 0.1 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/125,16,800,0.000,RAW,,Y,Corona bracketing 0.2 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/30,16,800,0.000,RAW,,Y,Corona bracketing 0.5 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/8,16,800,0.000,RAW,,Y,Corona bracketing 1.0 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,0.5,16,800,0.000,RAW,,Y,Corona bracketing 4.0 Rs
+TAKEPIC,LAST,+,00:00:02.2,Canon,2,16,800,0.000,RAW,,Y,Corona bracketing 8.0 Rs
+TAKEPIC,LAST,+,00:00:02.6,Canon,1/500,16,800,0.000,RAW,,Y,Corona bracketing 0.1 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/125,16,800,0.000,RAW,,Y,Corona bracketing 0.2 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/30,16,800,0.000,RAW,,Y,Corona bracketing 0.5 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/8,16,800,0.000,RAW,,Y,Corona bracketing 1.0 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,0.5,16,800,0.000,RAW,,Y,Corona bracketing 4.0 Rs
+TAKEPIC,LAST,+,00:00:02.2,Canon,2,16,800,0.000,RAW,,Y,Corona bracketing 8.0 Rs
+TAKEPIC,LAST,+,00:00:02.6,Canon,1/500,16,800,0.000,RAW,,Y,Corona bracketing 0.1 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/125,16,800,0.000,RAW,,Y,Corona bracketing 0.2 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/30,16,800,0.000,RAW,,Y,Corona bracketing 0.5 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/8,16,800,0.000,RAW,,Y,Corona bracketing 1.0 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,0.5,16,800,0.000,RAW,,Y,Corona bracketing 4.0 Rs
+TAKEPIC,LAST,+,00:00:02.2,Canon,2,16,800,0.000,RAW,,Y,Corona bracketing 8.0 Rs
+TAKEPIC,LAST,+,00:00:02.6,Canon,1/500,16,800,0.000,sRAW2+FS3,,Y,Corona bracketing 0.1 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/125,16,800,0.000,RAW,,Y,Corona bracketing 0.2 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/30,16,800,0.000,RAW,,Y,Corona bracketing 0.5 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/8,16,800,0.000,RAW,,Y,Corona bracketing 1.0 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,0.5,16,800,0.000,RAW,,Y,Corona bracketing 4.0 Rs
+TAKEPIC,LAST,+,00:00:02.2,Canon,2,16,800,0.000,RAW,,Y,Corona bracketing 8.0 Rs
+TAKEPIC,LAST,+,00:00:02.6,Canon,1/500,16,800,0.000,RAW,,Y,Corona bracketing 0.1 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/125,16,800,0.000,RAW,,Y,Corona bracketing 0.2 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/30,16,800,0.000,RAW,,Y,Corona bracketing 0.5 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/8,16,800,0.000,RAW,,Y,Corona bracketing 1.0 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,0.5,16,800,0.000,RAW,,Y,Corona bracketing 4.0 Rs
+TAKEPIC,LAST,+,00:00:02.2,Canon,2,16,800,0.000,RAW,,Y,Corona bracketing 8.0 Rs
+TAKEPIC,LAST,+,00:00:02.6,Canon,1/500,16,800,0.000,RAW,,Y,Corona bracketing 0.1 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/125,16,800,0.000,RAW,,Y,Corona bracketing 0.2 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/30,16,800,0.000,RAW,,Y,Corona bracketing 0.5 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,1/8,16,800,0.000,RAW,,Y,Corona bracketing 1.0 Rs
+TAKEPIC,LAST,+,00:00:02.0,Canon,0.5,16,800,0.000,RAW,,Y,Corona bracketing 4.0 Rs
+TAKEPIC,LAST,+,00:00:02.2,Canon,2,16,800,0.000,RAW,,Y,Corona bracketing 8.0 Rs
+TAKEPIC,MAX,-,00:00:19.8,Canon,1,16,800,0.000,RAW,,N,Earthshine/stars
+TAKEPIC,MAX,-,00:00:16.5,Canon,2,16,800,0.000,RAW,,N,Earthshine/stars
+TAKEPIC,MAX,-,00:00:12.2,Canon,3.2,16,800,0.000,RAW,,N,Earthshine/stars
+TAKEPIC,MAX,-,00:00:06.9,Canon,4,16,800,0.000,RAW,,N,Earthshine/stars
+TAKEPIC,MAX,-,00:00:00.6,Canon,5,16,800,0.000,RAW,,N,Earthshine/stars
+TAKEPIC,MAX,+,00:00:07.0,Canon,8,16,800,0.000,RAW,,N,Earthshine/stars
